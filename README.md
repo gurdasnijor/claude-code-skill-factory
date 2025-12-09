@@ -1,5 +1,8 @@
 # Claude Code Skills & Agents Factory
 
+[![Run in Smithery](https://smithery.ai/badge/skills/alirezarezvani)](https://smithery.ai/skills?ns=alirezarezvani&utm_source=github&utm_medium=badge)
+
+
 A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale. This repository provides templates, examples, and powerful prompt engineering systems to create custom skills and specialized agents for Claude AI across all platforms.
 
 ## 🚀 Quick Start (3 Shortcuts)
